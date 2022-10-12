@@ -3,6 +3,7 @@
 https://drive.google.com/drive/folders/1-axV8LQjVoTPfE_HvK7TcDa_l8V4ntuQ?usp=sharing
 
 #### Brief Summary:
+* Made the FAQ page and the footer in [pintugtd.com](https://pintugtd.com) (working as of 13 Oct 2022)
 * Completed all the courses in [learncpp.com](https://learncpp.com)
 * Learned Batch for basic scripting
 * Numerous practice projects comprised of HTML & CSS, JavaScript, Node, React, with the addition of tools & libraries such as Axios, Firebase
